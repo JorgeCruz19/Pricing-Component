@@ -1,9 +1,6 @@
 const cardPrice = document.querySelectorAll(".card-price"),
       check = document.querySelector(".switch-check");
 
-/* EvenListener */
-check.addEventListener("click", toggleValues);
-
 /* Function */
 function toggleValues(){
    if (check.checked) {
@@ -17,3 +14,6 @@ function toggleValues(){
       cardPrice[2].lastChild.nodeValue = "39.99";
    }
 }
+
+/* EvenListener */
+check.addEventListener("click", toggleValues);
