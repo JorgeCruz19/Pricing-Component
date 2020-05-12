@@ -1,6 +1,6 @@
 # Pricing Component Responsive
 
-## Challenge Frontendmentor.io
+## Challenge a  [FrontendMentor.io](https://frontendmentor.io)
 
 ### Made with HTML, CSS AND JS
 
